@@ -1,1 +1,2 @@
 This is my second text file.
+making some changes in the second file
